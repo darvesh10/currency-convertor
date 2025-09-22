@@ -3,7 +3,7 @@ const api = "https://open.er-api.com/v6/latest/USD"; // API endpoint for exchang
 
 // Select DOM elements
 const amountInput = document.getElementById("amount");
-const fromCurrencySelect = document.getElementById("fromCurrency");
+const fromCurrencySelect = document.getElementById("fromCurrency")
 const toCurrencySelect = document.getElementById("toCurrency");
 const convertButton = document.getElementById("convertButton");
 const resultDisplay = document.getElementById("result");
